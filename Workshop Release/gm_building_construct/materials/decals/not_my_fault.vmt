@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals/not_my_fault"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.080"
+
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_construct_edit_1/c-2372_3662_7072"
+		"Proxies"
+		{
+		}
+	}
+}
