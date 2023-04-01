@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture"		"gm_construct/grass1"
-	"$surfaceprop"		"grass"
-	"$detail"		"gm_construct/grass_clouds"
-	"$detailscale"		"0.120000"
-	"$detailblendfactor"		"0.500000"
-}

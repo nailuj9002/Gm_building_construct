@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/OFFLIGHTCOVER.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/gm_construct_edit_1/c1344_3584_32"
-	}
-}

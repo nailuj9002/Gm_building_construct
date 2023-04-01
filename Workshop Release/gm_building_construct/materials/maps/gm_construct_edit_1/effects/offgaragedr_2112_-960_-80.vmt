@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/EFFECTS/OFFGARAGEDR.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/gm_construct_edit_1/c2112_-960_-80"
-	}
-}

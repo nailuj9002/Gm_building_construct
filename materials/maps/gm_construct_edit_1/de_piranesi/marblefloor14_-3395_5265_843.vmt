@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_PIRANESI/MARBLEFLOOR14.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_construct_edit_1/c-3395_5265_843"
+	}
+}

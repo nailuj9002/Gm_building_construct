@@ -1,0 +1,423 @@
+
+
+
+materialPath: D:\steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.vmf
+Can't find surfaceprop concretel for material CONCRETE/AG1, using default
+material "glass/hotel_glass002" not found.
+Material not found!: GLASS/HOTEL_GLASS002
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "concrete/cinderwall02" not found.
+Material not found!: CONCRETE/CINDERWALL02
+material "metal/freezerwall01" not found.
+Material not found!: METAL/FREEZERWALL01
+material "metal/baggage_track_rails" not found.
+Material not found!: METAL/BAGGAGE_TRACK_RAILS
+material "wood/cabinets_side01" not found.
+Material not found!: WOOD/CABINETS_SIDE01
+material "wood/docks_wood01dark" not found.
+Material not found!: WOOD/DOCKS_WOOD01DARK
+Could not locate 'GameData' key in d:\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_building_construct/gm_construct/grass_13_wvt_patch
+Patching WVT material: maps/gm_building_construct/gm_construct/grass-sand_13_wvt_patch
+Patching WVT material: maps/gm_building_construct/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1214 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "decals/vent_residential_00" not found.
+material "decals/cs_decal_security" not found.
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (4295411 bytes)
+Error loading studio model "models/props_urban/streetlight001.mdl"!
+Error! prop_static using model "models/props_c17/tools_wrench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/tools_wrench01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7737 texinfos to 3779
+Reduced 646 texdatas to 567 (36767 bytes to 33403)
+Writing C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 9040106, actual size 8955338
+10 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 8
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+Error! Unable to load file "models/props_mall/mall_bench.dx80.vtx"
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+No vis information, direct lighting only.
+17480 faces
+7 degenerate faces
+21852182 square feet [3146714112.00 square inches]
+138 Displacements
+6740929 Square Feet [970693824.00 Square Inches]
+WARNING: light_spot at (-2207 3737 7133) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2204 3737 7144) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2204 3737 7144) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2434 3660 7146) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2434 3660 7146) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2434 3660 7135) has outer angle larger than 90 degrees! Clamping to 90...
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+291 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0820 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/1024         3264/49152    ( 6.6%) 
+brushes               4468/8192        53616/98304    (54.5%) 
+brushsides           30920/65536      247360/524288   (47.2%) 
+planes               11964/65536      239280/1310720  (18.3%) 
+vertexes             28759/65536      345108/786432   (43.9%) 
+nodes                 7458/65536      238656/2097152  (11.4%) 
+texinfos              3779/12288      272088/884736   (30.8%) 
+texdata                567/2048        18144/65536    (27.7%) 
+dispinfos              138/0           24288/0        ( 0.0%) 
+disp_verts           14626/0          292520/0        ( 0.0%) 
+disp_tris            24096/0           48192/0        ( 0.0%) 
+disp_lmsamples      776654/0          776654/0        ( 0.0%) 
+faces                17480/65536      978880/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            11739/65536      657384/3670016  (17.9%) 
+leaves                7527/65536      240864/2097152  (11.5%) 
+leaffaces            19541/65536       39082/131072   (29.8%) 
+leafbrushes           9877/65536       19754/131072   (15.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           132202/512000     528808/2048000  (25.8%) 
+edges                82869/256000     331476/1024000  (32.4%) 
+LDR worldlights        291/8192        25608/720896   ( 3.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1788/32768       17880/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         37524/65536       75048/131072   (57.3%) 
+cubemapsamples          82/1024         1312/16384    ( 8.0%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    14032236/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      347603/393216   (88.4%) VERY FULL!
+LDR ambient table     7527/65536       30108/262144   (11.5%) 
+HDR ambient table     7527/65536       30108/262144   (11.5%) 
+LDR leaf ambient     28570/65536      799960/1835008  (43.6%) 
+HDR leaf ambient      7527/65536      210756/1835008  (11.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/28494    ( 0.0%) 
+pakfile               [variable]     8955338/0        ( 0.0%) 
+physics               [variable]     4295411/4194304  (102.4%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 50187
+Writing c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+6 minutes, 13 seconds elapsed
+
+
+
+materialPath: D:\steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.vmf
+Can't find surfaceprop concretel for material CONCRETE/AG1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "metal/freezerwall01" not found.
+Material not found!: METAL/FREEZERWALL01
+material "wood/docks_wood01dark" not found.
+Material not found!: WOOD/DOCKS_WOOD01DARK
+Could not locate 'GameData' key in d:\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_building_construct/gm_construct/grass_13_wvt_patch
+Patching WVT material: maps/gm_building_construct/gm_construct/grass-sand_13_wvt_patch
+Patching WVT material: maps/gm_building_construct/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1210 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (4) (4297750 bytes)
+Error! prop_static using model "models/props_c17/tools_wrench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/tools_wrench01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7814 texinfos to 3790
+Reduced 653 texdatas to 572 (37176 bytes to 33769)
+Writing C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 9043157, actual size 8957585
+24 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 2
+
+
+
+2 threads
+reading c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+reading c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.prt
+1444 portalclusters
+3605 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8
+
+
+materialPath: D:\steam\steamapps\common\Source SDK Base 2013 Multiplayer\hl2\materials
+Loading C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.vmf
+Can't find surfaceprop concretel for material CONCRETE/AG1, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "wood/docks_wood01dark" not found.
+Material not found!: WOOD/DOCKS_WOOD01DARK
+Could not locate 'GameData' key in d:\steam\steamapps\common\source sdk base 2013 multiplayer\hl2\gameinfo.txt
+Patching WVT material: maps/gm_building_construct/gm_construct/grass_13_wvt_patch
+Patching WVT material: maps/gm_building_construct/gm_construct/grass-sand_13_wvt_patch
+Patching WVT material: maps/gm_building_construct/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1208 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4297750 bytes)
+Error! prop_static using model "models/props_c17/tools_wrench01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/tools_wrench01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7834 texinfos to 3791
+Reduced 661 texdatas to 574 (37675 bytes to 33938)
+Writing C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Julian\Desktop\Projects\Upload folder\Maps\gm_building_construct\maps\gm_building_construct.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 9047190, actual size 8960546
+27 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+2 threads
+reading c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+reading c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.prt
+1444 portalclusters
+3605 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2506 visible clusters (0.52%)
+Total clusters visible: 479396
+Average clusters visible: 331
+Building PAS...
+Average clusters audible: 920
+visdatasize:379307  compressed from 531392
+writing c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp', but we don't own that location. Allowing.
+8 minutes, 36 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[48 texlights parsed from 'lights.rad']
+
+Loading c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+Error! Unable to load file "models/props_mall/mall_bench.dx80.vtx"
+Error! Unable to load file "models/props_urban/streetlight001.dx80.vtx"
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+17497 faces
+7 degenerate faces
+21852168 square feet [3146712064.00 square inches]
+138 Displacements
+6740929 Square Feet [970693824.00 Square Inches]
+17490 patches before subdivision
+160590 patches after subdivision
+WARNING: light_spot at (-2207 3737 7133) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2204 3737 7144) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2204 3737 7144) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2434 3660 7146) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2434 3660 7146) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (-2434 3660 7135) has outer angle larger than 90 degrees! Clamping to 90...
+light has _fifty_percent_distance of 130.000000 but _zero_percent_distance of 0.000000
+291 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 33843317, max 2178
+transfer lists: 258.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(424780, 427585, 371725)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(136695, 128066, 98695)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(43661, 37606, 25707)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(16040, 13012, 7968)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(5740, 4346, 2397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2209, 1572, 780)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(842, 561, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(333, 208, 84)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(132, 77, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(53, 29, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(21, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(9, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1306 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  72/1024         3456/49152    ( 7.0%) 
+brushes               4473/8192        53676/98304    (54.6%) 
+brushsides           30977/65536      247816/524288   (47.3%) 
+planes               12136/65536      242720/1310720  (18.5%) 
+vertexes             28796/65536      345552/786432   (43.9%) 
+nodes                 7484/65536      239488/2097152  (11.4%) 
+texinfos              3791/12288      272952/884736   (30.9%) 
+texdata                574/2048        18368/65536    (28.0%) 
+dispinfos              138/0           24288/0        ( 0.0%) 
+disp_verts           14626/0          292520/0        ( 0.0%) 
+disp_tris            24096/0           48192/0        ( 0.0%) 
+disp_lmsamples      776654/0          776654/0        ( 0.0%) 
+faces                17497/65536      979832/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            11751/65536      658056/3670016  (17.9%) 
+leaves                7557/65536      241824/2097152  (11.5%) 
+leaffaces            19516/65536       39032/131072   (29.8%) 
+leafbrushes           9878/65536       19756/131072   (15.1%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           132366/512000     529464/2048000  (25.9%) 
+edges                82954/256000     331816/1024000  (32.4%) 
+LDR worldlights        291/8192        25608/720896   ( 3.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips           1797/32768       17970/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         37656/65536       75312/131072   (57.5%) 
+cubemapsamples          82/1024         1312/16384    ( 8.0%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    14112940/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      379307/16777216 ( 2.3%) 
+entdata               [variable]      350448/393216   (89.1%) VERY FULL!
+LDR ambient table     7557/65536       30228/262144   (11.5%) 
+HDR ambient table     7557/65536       30228/262144   (11.5%) 
+LDR leaf ambient     28652/65536      802256/1835008  (43.7%) 
+HDR leaf ambient      7557/65536      211596/1835008  (11.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29102    ( 0.0%) 
+pakfile               [variable]     8960546/0        ( 0.0%) 
+physics               [variable]     4297750/4194304  (102.5%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 50267
+Writing c:\users\julian\desktop\projects\upload folder\maps\gm_building_construct\maps\gm_building_construct.bsp
+8 minutes, 39 seconds elapsed

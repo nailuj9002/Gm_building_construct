@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TEMPLATE010C.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/gm_construct_edit_1/c-256_-1472_-96"
-	}
-}

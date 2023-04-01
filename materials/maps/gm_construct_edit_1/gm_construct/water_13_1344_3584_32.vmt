@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/GM_CONSTRUCT/WATER_13.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/gm_construct_edit_1/c1344_3584_32"
+		"Proxies"
+		{
+		}
+	}
+}
